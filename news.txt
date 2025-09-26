@@ -1,0 +1,263 @@
+
+Category: Vendors - (20 articles)
+------------------ Article #1 ----------------------
+RSS Name:	 Ars Technica (Security)
+Published:	 Mon, 07 Jul 2025 23:46:14 +0000
+Title:		 Unless users take action, Android will let Gemini access third-party apps
+Link:		 https://arstechnica.com/security/2025/07/unless-users-take-action-android-will-let-gemini-access-third-party-apps/
+Summary:
+
+ Important changes to Android devices took effect starting Monday.
+-----------------------------------------------------
+
+------------------ Article #2 ----------------------
+RSS Name:	 Ars Technica (Security)
+Published:	 Wed, 21 May 2025 20:21:39 +0000
+Title:		 �Microsoft has simply given us no other option,� Signal says as it blocks Windows Recall
+Link:		 https://arstechnica.com/security/2025/05/signal-resorts-to-weird-trick-to-block-windows-recall-in-desktop-app/
+Summary:
+
+ Even after its refurbishing, Recall provides few ways to exclude specific apps.
+-----------------------------------------------------
+
+------------------ Article #3 ----------------------
+RSS Name:	 Ars Technica (Security)
+Published:	 Tue, 13 May 2025 20:31:11 +0000
+Title:		 Google introduces Advanced Protection mode for its most at-risk Android users
+Link:		 https://arstechnica.com/security/2025/05/google-introduces-advanced-protection-mode-for-its-most-at-risk-android-users/
+Summary:
+
+ A single flip of a settings button enables a host of defenses against hacking.
+-----------------------------------------------------
+
+------------------ Article #4 ----------------------
+RSS Name:	 Ars Technica (Security)
+Published:	 Mon, 28 Apr 2025 11:00:59 +0000
+Title:		 iOS and Android juice jacking defenses have been trivial to bypass for years
+Link:		 https://arstechnica.com/security/2025/04/ios-and-android-juice-jacking-defenses-have-been-trivial-to-bypass-for-years/
+Summary:
+
+ New ChoiceJacking attack allows malicious chargers to steal data from phones.
+-----------------------------------------------------
+
+------------------ Article #5 ----------------------
+RSS Name:	 Ars Technica (Security)
+Published:	 Mon, 28 Apr 2025 11:00:59 +0000
+Title:		 iOS and Android juice jacking defenses have been trivial to bypass for years
+Link:		 https://arstechnica.com/security/2025/04/ios-and-android-juice-jacking-defenses-have-been-trivial-to-bypass-for-years/
+Summary:
+
+ New ChoiceJacking attack allows malicious chargers to steal data from phones.
+-----------------------------------------------------
+
+------------------ Article #6 ----------------------
+RSS Name:	 Ars Technica (Security)
+Published:	 Tue, 15 Apr 2025 16:00:00 +0000
+Title:		 Android phones will soon reboot themselves after sitting unused for 3 days
+Link:		 https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/
+Summary:
+
+ The latest Google update will make your phone more secure if you don't touch it
+-----------------------------------------------------
+
+------------------ Article #7 ----------------------
+RSS Name:	 Ars Technica (Security)
+Published:	 Thu, 06 Feb 2025 22:06:17 +0000
+Title:		 DeepSeek iOS app sends data unencrypted to ByteDance-controlled servers
+Link:		 https://arstechnica.com/security/2025/02/deepseek-ios-app-sends-data-unencrypted-to-bytedance-controlled-servers/
+Summary:
+
+ Apple's defenses that protect data from being sent in the clear are globally disabled.
+-----------------------------------------------------
+
+------------------ Article #8 ----------------------
+RSS Name:	 Ars Technica (Security)
+Published:	 Fri, 03 Jan 2025 12:15:47 +0000
+Title:		 Time to check if you ran any of these 33 malicious Chrome extensions
+Link:		 https://arstechnica.com/security/2025/01/dozens-of-backdoored-chrome-extensions-discovered-on-2-6-million-devices/
+Summary:
+
+ Two separate campaigns have been stealing credentials and browsing history for months.
+-----------------------------------------------------
+
+------------------ Article #9 ----------------------
+RSS Name:	 Ars Technica (Security)
+Published:	 Thu, 17 Oct 2024 16:57:54 +0000
+Title:		 Android 15�s security and privacy features are the update�s highlight
+Link:		 https://arstechnica.com/gadgets/2024/10/android-15s-security-and-privacy-features-are-the-updates-highlight/
+Summary:
+
+ New tools aim at phone snatchers, snooping kids or partners, and cell hijackers.
+-----------------------------------------------------
+
+------------------ Article #10 ----------------------
+RSS Name:	 HackRead
+Published:	 Wed, 24 Sep 2025 13:58:21 +0000
+Title:		 ShadowV2 Botnet Uses Misconfigured AWS Docker for DDoS-For-Hire Service
+Link:		 https://hackread.com/shadowv2-botnet-aws-docker-ddos-for-hire-service/
+Summary:
+
+ Darktrace researchers have uncovered ShadowV2, a new botnet that operates as a DDoS-for-hire service by infecting misconfigured Docker containers on AWS cloud servers.
+-----------------------------------------------------
+
+------------------ Article #11 ----------------------
+RSS Name:	 Infosecurity Magazine (news)
+Published:	 Wed, 24 Sep 2025 15:30:00 GMT
+Title:		 npm Package Uses QR Code Steganography to Steal Credentials
+Link:		 https://www.infosecurity-magazine.com/news/npm-uses-qr-code-steganography/
+Summary:
+
+ Malicious npm package Fezbox uses QR codes to steal credentials from browser cookies
+-----------------------------------------------------
+
+------------------ Article #12 ----------------------
+RSS Name:	 Security Affairs
+Published:	 Thu, 25 Sep 2025 19:45:48 +0000
+Title:		 U.S. CISA adds CISCO Secure Firewall ASA and Secure FTD flaws to its Known Exploited Vulnerabilities catalog
+Link:		 https://securityaffairs.com/182593/hacking/u-s-cisa-adds-cisco-secure-firewall-asa-and-secure-ftd-flaws-to-its-known-exploited-vulnerabilities-catalog.html
+Summary:
+
+ U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds CISCO Secure Firewall ASA and Secure FTD flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA)�added CISCO Secure Firewall ASA and Secure FTD flaws to its Known Exploited Vulnerabilities (KEV) catalog. CISA urges Federal Agencies to identify and mitigate potential compromise [&#8230;]
+-----------------------------------------------------
+
+------------------ Article #13 ----------------------
+RSS Name:	 Security Affairs
+Published:	 Thu, 25 Sep 2025 07:27:26 +0000
+Title:		 Cisco fixed actively exploited zero-day in Cisco IOS and IOS XE software
+Link:		 https://securityaffairs.com/182564/hacking/cisco-fixed-actively-exploited-zero-day-in-cisco-ios-and-ios-xe-software.html
+Summary:
+
+ Cisco addressed a high-severity zero-day in Cisco IOS and IOS XE Software that is being actively exploited in attacks in the wild. Cisco fixed an actively exploited zero-day, tracked as CVE-2025-20352, impacting Cisco IOS and IOS XE Software. The high-severity vulnerability resides in the Simple Network Management Protocol (SNMP) subsystem of Cisco IOS Software and [&#8230;]
+-----------------------------------------------------
+
+------------------ Article #14 ----------------------
+RSS Name:	 Security Affairs
+Published:	 Thu, 25 Sep 2025 07:27:26 +0000
+Title:		 Cisco fixed actively exploited zero-day in Cisco IOS and IOS XE software
+Link:		 https://securityaffairs.com/182564/hacking/cisco-fixed-actively-exploited-zero-day-in-cisco-ios-and-ios-xe-software.html
+Summary:
+
+ Cisco addressed a high-severity zero-day in Cisco IOS and IOS XE Software that is being actively exploited in attacks in the wild. Cisco fixed an actively exploited zero-day, tracked as CVE-2025-20352, impacting Cisco IOS and IOS XE Software. The high-severity vulnerability resides in the Simple Network Management Protocol (SNMP) subsystem of Cisco IOS Software and [&#8230;]
+-----------------------------------------------------
+
+------------------ Article #15 ----------------------
+RSS Name:	 TechRepublic (security)
+Published:	 Mon, 22 Sep 2025 11:57:35 +0000
+Title:		 Google Touts �Biggest Upgrade to Chrome in Its History� With Gemini AI
+Link:		 https://www.techrepublic.com/article/news-google-gemini-chrome-upgrade/
+Summary:
+
+ <p>Google embeds Gemini into Chrome in what it calls the browser�s biggest upgrade, adding features to summarize pages, combat scams, and simplify browsing.</p>
+<p>The post <a href="https://www.techrepublic.com/article/news-google-gemini-chrome-upgrade/">Google Touts &#8216;Biggest Upgrade to Chrome in Its History&#8217; With Gemini AI</a> appeared first on <a href="https://www.techrepublic.com">TechRepublic</a>.</p>
+-----------------------------------------------------
+
+------------------ Article #16 ----------------------
+RSS Name:	 TechRepublic (security)
+Published:	 Wed, 17 Sep 2025 17:29:58 +0000
+Title:		 Apple Releases iOS 26, macOS Tahoe 26 and 50+ Security Fixes
+Link:		 https://www.techrepublic.com/article/news-apple-ios26-macos26-release-security-fixes/
+Summary:
+
+ <p>Apple just fixed more than 50 security flaws across iPhone, iPad, Mac, Watch, TV, and Vision Pro.</p>
+<p>The post <a href="https://www.techrepublic.com/article/news-apple-ios26-macos26-release-security-fixes/">Apple Releases iOS 26, macOS Tahoe 26 and 50+ Security Fixes</a> appeared first on <a href="https://www.techrepublic.com">TechRepublic</a>.</p>
+-----------------------------------------------------
+
+------------------ Article #17 ----------------------
+RSS Name:	 TechRepublic (security)
+Published:	 Wed, 17 Sep 2025 17:29:58 +0000
+Title:		 Apple Releases iOS 26, macOS Tahoe 26 and 50+ Security Fixes
+Link:		 https://www.techrepublic.com/article/news-apple-ios26-macos26-release-security-fixes/
+Summary:
+
+ <p>Apple just fixed more than 50 security flaws across iPhone, iPad, Mac, Watch, TV, and Vision Pro.</p>
+<p>The post <a href="https://www.techrepublic.com/article/news-apple-ios26-macos26-release-security-fixes/">Apple Releases iOS 26, macOS Tahoe 26 and 50+ Security Fixes</a> appeared first on <a href="https://www.techrepublic.com">TechRepublic</a>.</p>
+-----------------------------------------------------
+
+------------------ Article #18 ----------------------
+RSS Name:	 TechRepublic (security)
+Published:	 Thu, 04 Sep 2025 09:16:11 +0000
+Title:		 Is a Recent Windows Update Responsible for SSD Failures? Microsoft Has an Answer
+Link:		 https://www.techrepublic.com/article/news-microsoft-windows-update-ssd-failures/
+Summary:
+
+ <p>A rash of SSD failures have prompted some users to blame a recent Windows Update. Microsoft insist the problem is not its fault. </p>
+<p>The post <a href="https://www.techrepublic.com/article/news-microsoft-windows-update-ssd-failures/">Is a Recent Windows Update Responsible for SSD Failures? Microsoft Has an Answer</a> appeared first on <a href="https://www.techrepublic.com">TechRepublic</a>.</p>
+-----------------------------------------------------
+
+------------------ Article #19 ----------------------
+RSS Name:	 Threatpost
+Published:	 Thu, 18 Aug 2022 14:31:38 +0000
+Title:		 Google Patches Chrome�s Fifth Zero-Day of the Year
+Link:		 https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/
+Summary:
+
+ An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.
+-----------------------------------------------------
+
+------------------ Article #20 ----------------------
+RSS Name:	 ZDNet (security)
+Published:	 Thu, 25 Sep 2025 19:05:00 GMT
+Title:		 Your Android phone just got a useful Photos upgrade - and it's a big one for editors
+Link:		 https://www.zdnet.com/article/your-android-phone-just-got-a-useful-photos-upgrade-and-its-a-big-one-for-editors/
+Summary:
+
+ Previously exclusive to the Pixel 10 series, you can now edit photos with a simple AI prompt - remove glare, add clouds, and more.
+-----------------------------------------------------
+
+
+Category: Threat Actors - (4 articles)
+------------------ Article #21 ----------------------
+RSS Name:	 Krebs on Security
+Published:	 Wed, 24 Sep 2025 11:48:31 +0000
+Title:		 Feds Tie �Scattered Spider� Duo to $115M in Ransoms
+Link:		 https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/
+Summary:
+
+ U.S. prosecutors last week levied criminal hacking charges against 19-year-old U.K. national Thalha Jubair for allegedly being a core member of Scattered Spider, a prolific cybercrime group blamed for extorting at least $115 million in ransom payments from victims. The charges came as Jubair and an alleged co-conspirator appeared in a London court to face accusations of hacking into and extorting several large U.K. retailers, the London transit system, and healthcare providers in the United States.
+-----------------------------------------------------
+
+------------------ Article #22 ----------------------
+RSS Name:	 Krebs on Security
+Published:	 Thu, 21 Aug 2025 01:47:22 +0000
+Title:		 SIM-Swapper, Scattered Spider Hacker Gets 10 Years
+Link:		 https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/
+Summary:
+
+ A 21-year-old Florida man at the center of a prolific cybercrime group known as "Scattered Spider" was sentenced to 10 years in federal prison today, and ordered to pay roughly $13 million in restitution to victims.
+
+Noah Michael Urban of Palm Coast, Fla. pleaded guilty in April 2025 to charges of wire fraud and conspiracy. Florida prosecutors alleged Urban conspired with others to steal at least $800,000 from five victims via SIM-swapping attacks that diverted their mobile phone calls and text messages to devices controlled by Urban and his co-conspirators.
+-----------------------------------------------------
+
+------------------ Article #23 ----------------------
+RSS Name:	 Lohrmann on Cybersecurity
+Published:	 Sun, 31 Aug 2025 09:00:00 GMT
+Title:		 Salt Typhoon: What Security Action Should Governments Take Now?
+Link:		 https://www.govtech.com/blogs/lohrmann-on-cybersecurity/salt-typhoon-what-security-action-should-governments-take-now
+Summary:
+
+ The FBI just announced that the Salt Typhoon cyber attacks against U.S. telecoms uncovered last year were much worse and more widespread than previously disclosed. What�s next?
+-----------------------------------------------------
+
+------------------ Article #24 ----------------------
+RSS Name:	 TechRepublic (security)
+Published:	 Fri, 19 Sep 2025 21:16:32 +0000
+Title:		 Scattered Spider Hackers Charged in Connection With Transport for London Attack
+Link:		 https://www.techrepublic.com/article/news-scattered-spider-arrests/
+Summary:
+
+ <p>Victims collectively paid more than $115 million in ransomware payments, law enforcement said. </p>
+<p>The post <a href="https://www.techrepublic.com/article/news-scattered-spider-arrests/">Scattered Spider Hackers Charged in Connection With Transport for London Attack</a> appeared first on <a href="https://www.techrepublic.com">TechRepublic</a>.</p>
+-----------------------------------------------------
+
+
+Category: Products - (1 articles)
+------------------ Article #25 ----------------------
+RSS Name:	 Security Affairs
+Published:	 Thu, 25 Sep 2025 07:27:26 +0000
+Title:		 Cisco fixed actively exploited zero-day in Cisco IOS and IOS XE software
+Link:		 https://securityaffairs.com/182564/hacking/cisco-fixed-actively-exploited-zero-day-in-cisco-ios-and-ios-xe-software.html
+Summary:
+
+ Cisco addressed a high-severity zero-day in Cisco IOS and IOS XE Software that is being actively exploited in attacks in the wild. Cisco fixed an actively exploited zero-day, tracked as CVE-2025-20352, impacting Cisco IOS and IOS XE Software. The high-severity vulnerability resides in the Simple Network Management Protocol (SNMP) subsystem of Cisco IOS Software and [&#8230;]
+-----------------------------------------------------
+
